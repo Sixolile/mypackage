@@ -8,6 +8,6 @@ setup(
     description='EDSA example python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/sixolile/Sixolile-root-folder.git',
+    url='https://github.com/sixolile/mypackage.git',
     author='sixolile',
     author_email='gadesixolile@bettech.org')
